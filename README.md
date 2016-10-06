@@ -20,4 +20,4 @@ Open `src/index.html` and replace the comments with the desired details. Add `.s
 Report a bug or suggest a feature at  [https://github.com/CMessinides/kr-email-base](https://github.com/CMessinides/kr-email-base).
 
 ## License
-The *Kenyon Review* name and logo are copyright of the *Kenyon Review*. All other materials are released under the MIT License.
+The *Kenyon Review* name and logo are copyright of *The Kenyon Review*. All other materials are released under the MIT License.
