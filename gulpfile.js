@@ -3,8 +3,7 @@
 var gulp = require('gulp'),
     sass = require('gulp-sass'),
     browserSync = require('browser-sync').create(),
-    inlineCss = require('gulp-inline-css'),
-    htmlMin = require('gulp-htmlmin');
+    inlineCss = require('gulp-inline-css');
 
 /* tell BrowserSync to watch the dist directory */
 gulp.task('browserSync', function() {
